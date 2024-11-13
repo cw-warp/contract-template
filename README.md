@@ -1,5 +1,3 @@
-# Warp CLI - Contract Template Repository
+# Warp Contract Template
 
-This repository contains various contract templates used by different chain profiles.
-
-The main branch of the repository is reserved for future use once the chain profiles are deprecated.
+This contract template is loosely based on the example CosmWasm contracts, but its primary purpose is compatibility with the Warp CLI tool.
