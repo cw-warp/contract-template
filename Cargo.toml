@@ -44,7 +44,7 @@ schemars = { workspace = true }
 serde = { workspace = true }
 thiserror = { workspace = true }
 shared = { path = "../../packages/shared" }
-serde-json-wasm = "0.5.1"
+serde-json-wasm = "1"
 archway-bindings = "0.2.1"
 
 [dev-dependencies]
